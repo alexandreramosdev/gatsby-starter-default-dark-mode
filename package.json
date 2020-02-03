@@ -38,5 +38,12 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexandreramosdev/gatsby-starter-default-dark-mode"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandreramosdev/gatsby-starter-default-dark-mode/issues"
   }
 }
