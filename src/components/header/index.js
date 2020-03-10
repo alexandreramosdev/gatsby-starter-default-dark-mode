@@ -40,7 +40,7 @@ const Header = ({ siteTitle }) => {
             </Link>
           </h1>
           <button onClick={themeToggle}>
-            {theme === "dark" ? "ligth" : "dark"}
+            {theme === "dark" ? "light" : "dark"}
           </button>
         </Wrapper>
       </Container>
